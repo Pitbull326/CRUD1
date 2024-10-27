@@ -1,0 +1,6 @@
+descargar archivo .sql de nombre bdcrud.sql desde el siguiente link https://github.com/Pitbull326/CRUD1
+abrir motor de base de datos Sql Server y ejecutar archivo bdCrud.sql para crear la base de datos, tablas y procedimientos almacenados que se encunetran en el archivo
+descargar solucion de nombre CRUD1 desde la siguiente rut https://github.com/Pitbull326/CRUD1
+Luego de descargar abrir la solucion con visual Studio, limpiar la solucion y compilar.
+(Tener en concideracion que la solucion fue creada sobre visual studio 2022 y la base de datos sobre un SQL Server 2016 SP2).
+
